@@ -1,0 +1,10 @@
+.Tile{
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    width: 100%;
+    margin-top: 10px;
+    padding: 5px 25px 5px 25px;
+    * {
+        margin: 5px 0 5px 0;        
+    }
+}
